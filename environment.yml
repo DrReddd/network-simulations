@@ -1,0 +1,11 @@
+name: Network_simulation
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - numpy
+  - matplotlib
+  - scipy
+  - tqdm
+  - networkx
+prefix: C:\Users\pmarc\Anaconda3\envs\Network_simulation
